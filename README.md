@@ -2,6 +2,7 @@
 
 **A Web3 Security Tutorial**
 
+![img](./img/banner.png)  
 有人说，Web3就像《三体》中的“黑暗森林”，那么该课程将带你进入“猎人”的门。
 
 **Twitter:** [@brycewai](https://twitter.com/brycewai)  
@@ -14,7 +15,7 @@
 
 **F02：区块链通用模型**：[代码](./foundation/model/readme.md) | [文章](./foundation/model/readme.md) | [Mirror](https://mirror.xyz/brycew.eth/V6OEk1r4O_PbRiB3PzVc7VEZ2j_7XvcwxWa50PVc95Q)
 
-**F03：比特币模型详解**：代码 | 文章 | Mirror
+**F03：比特币模型详解**：[代码](./foundation/btc/readme.md) | [文章](./foundation/btc/readme.md) | [Mirror](https://mirror.xyz/dashboard/edit/PsiKSs0A1X66btsfF0YcIysVqh0oXBrLy8G8i29fPQk)
 
 **F04：以太坊模型详解**：代码 | 文章 | Mirror
 
@@ -62,6 +63,8 @@
 
 **SP04：其他攻击**：代码 | 文章 | Mirror
 
+（待）
+
 ### `智能合约安全风险`
 
 **SS01：重入攻击**：代码 | 文章 | Mirror
@@ -69,6 +72,8 @@
 **SS02：交易顺序依赖攻击**：代码 | 文章 | Mirror
 
 **SS03：溢出攻击**：代码 | 文章 | Mirror
+
+（待）
 
 ## 智能合约安全模拟实战
 
