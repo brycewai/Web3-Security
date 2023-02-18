@@ -1,0 +1,5 @@
+[submodule "exploit/lib/forge-std"]
+	path = exploit/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/forge-std"]
+	branch = v1.4.0

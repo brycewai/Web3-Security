@@ -11,11 +11,11 @@
 
 ## 区块链基础
 
-**F01：什么是区块链**：[代码](./foundation/blockchain/readme.md) | [文章](./foundation/blockchain/readme.md) | [Mirror](https://mirror.xyz/brycew.eth/oI6GKxfxgX4nDx8AlDB5ukKF4LBdyXEc_4bNmZ8uxTg)
+**F01：什么是区块链**：[代码](./basis/blockchain/readme.md) | [文章](./basis/blockchain/readme.md) | [Mirror](https://mirror.xyz/brycew.eth/oI6GKxfxgX4nDx8AlDB5ukKF4LBdyXEc_4bNmZ8uxTg)
 
-**F02：区块链通用模型**：[代码](./foundation/model/readme.md) | [文章](./foundation/model/readme.md) | [Mirror](https://mirror.xyz/brycew.eth/V6OEk1r4O_PbRiB3PzVc7VEZ2j_7XvcwxWa50PVc95Q)
+**F02：区块链通用模型**：[代码](./basis/model/readme.md) | [文章](./basis/model/readme.md) | [Mirror](https://mirror.xyz/brycew.eth/V6OEk1r4O_PbRiB3PzVc7VEZ2j_7XvcwxWa50PVc95Q)
 
-**F03：比特币模型详解**：[代码](./foundation/btc/readme.md) | [文章](./foundation/btc/readme.md) | [Mirror](https://mirror.xyz/dashboard/edit/PsiKSs0A1X66btsfF0YcIysVqh0oXBrLy8G8i29fPQk)
+**F03：比特币模型详解**：[代码](./basis/btc/readme.md) | [文章](./basis/btc/readme.md) | [Mirror](https://mirror.xyz/dashboard/edit/PsiKSs0A1X66btsfF0YcIysVqh0oXBrLy8G8i29fPQk)
 
 **F04：以太坊模型详解**：代码 | 文章 | Mirror
 
@@ -25,11 +25,11 @@
 
 ### `Solidity 入门`
 
-（待）
+本着不重复造轮子的理念，在此向大家推荐[WTF Academy - Solidity入门](https://wtf.academy/solidity-start)
 
 ### `Solidity 进阶`
 
-（待）
+本着不重复造轮子的理念，在此向大家推荐[WTF Academy - Solidity 进阶](https://wtf.academy/solidity-start)
 
 ## 常见协议和提案
 
@@ -95,7 +95,16 @@
 
 ## 智能合约安全事件复现
 
-（待）
+### Getting Started
+
+- Follow the [instructions](https://book.getfoundry.sh/getting-started/installation.html) to install [Foundry](https://github.com/foundry-rs/foundry).
+
+- Clone and install dependencies:`git submodule update --init --recursive`
+
+### List of Past DeFi Incidents
+
+- [20230217 Dexible DeFi](./exploit/readme.md#20230217---dexible)  
+- [20230216 Platypus](./exploit/readme.md#20230216---platypus)  
 
 ## 公链平台漏洞分析
 
