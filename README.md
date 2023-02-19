@@ -29,7 +29,7 @@
 
 ### `Solidity 进阶`
 
-本着不重复造轮子的理念，在此向大家推荐[WTF Academy - Solidity 进阶](https://wtf.academy/solidity-start)
+本着不重复造轮子的理念，在此向大家推荐[WTF Academy - Solidity 进阶](https://wtf.academy/solidity-advanced)
 
 ## 常见协议和提案
 
@@ -103,6 +103,7 @@
 
 ### List of Past DeFi Incidents
 
+- [20230219 BABYDOLL](./exploit/readme.md#20230219---babydoll)
 - [20230217 Dexible DeFi](./exploit/readme.md#20230217---dexible)  
 - [20230216 Platypus](./exploit/readme.md#20230216---platypus)  
 
