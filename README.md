@@ -105,7 +105,8 @@
 
 - [20230219 BABYDOLL](./exploit/readme.md#20230219---babydoll)
 - [20230217 Dexible DeFi](./exploit/readme.md#20230217---dexible)  
-- [20230216 Platypus](./exploit/readme.md#20230216---platypus)  
+- [20230216 Platypus](./exploit/readme.md#20230216---platypus)
+- [20220808 EGDFinance](./exploit/readme.md#20220808---egdfinance)
 
 ## 公链平台漏洞分析
 
