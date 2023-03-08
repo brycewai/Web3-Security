@@ -17,7 +17,7 @@
 
 **F03：比特币模型详解**：[代码](./basis/btc/readme.md) | [文章](./basis/btc/readme.md) | [Mirror](https://mirror.xyz/dashboard/edit/PsiKSs0A1X66btsfF0YcIysVqh0oXBrLy8G8i29fPQk)
 
-**F04：以太坊模型详解**：代码 | 文章 | Mirror
+**F04：以太坊模型详解**：[代码](./basis/ethereum/readme.md) | [文章](./basis/ethereum/readme.md) | [Mirror](https://mirror.xyz/brycew.eth/_b7ZXOsib1xB506_0WHZYO6N1c0CxjcHTmbtlJn4Yi8)
 
 **F05：常用工具和资料汇总**：代码 | 文章 | Mirror
 
