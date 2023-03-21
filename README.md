@@ -67,13 +67,17 @@
 
 ### `智能合约安全风险`
 
-**SS01：重入攻击**：Github | Mirror
+**SS01：重入攻击（Reentrancy）**：[Github](./vulnerability/smartContract/readme.md#重入攻击reentrancy) | Mirror
 
-**SS02：交易顺序依赖攻击**：Github | Mirror
+**SS02：整型溢出漏洞（overflow）**：[Github](./vulnerability/smartContract/readme.md#整型溢出漏洞overflow) | Mirror
 
-**SS03：溢出攻击**：Github | Mirror
+**SS03：tx.origin漏洞**：[Github](./vulnerability/smartContract/readme.md#txorigin漏洞) | Mirror
 
-（待）
+**SS04：拒绝服务攻击（DoS）**：[Github](./vulnerability/smartContract/readme.md#拒绝服务攻击dos) | Mirror
+
+**SS05：预言机操纵（Oracle Manipulation）**：[Github](./vulnerability/smartContract/readme.md#预言机操纵oracle-manipulation) | Mirror
+
+**SS06：闪电贷攻击（Flashloan）**：[Github](./vulnerability/smartContract/readme.md#闪电贷攻击) | Mirror
 
 ## 智能合约安全模拟实战
 
