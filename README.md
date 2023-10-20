@@ -7,7 +7,7 @@
 
 **Twitter:** [@brycewai](https://twitter.com/brycewai)  
 **Mirror:** [@Bryce.W](https://mirror.xyz/brycew.eth)  
-**所有Github和教程开源在Github:** [https://github.com/brycewai/Web3-Security](https://github.com/brycewai/Web3-Security)
+**所有Github和教程开源在Github:** [https://github.com/HawkeWei/Web3-Security](https://github.com/HawkeWei/Web3-Security)
 
 ## 区块链基础
 
