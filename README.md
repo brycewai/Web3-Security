@@ -6,20 +6,19 @@
 有人说，Web3就像《三体》中的“黑暗森林”，那么该课程将带你进入“猎人”的门。
 
 **Twitter:** [@brycewai](https://twitter.com/brycewai)  
-**Mirror:** [@Bryce.W](https://mirror.xyz/brycew.eth)  
 **所有Github和教程开源在Github:** [https://github.com/HawkeWei/Web3-Security](https://github.com/HawkeWei/Web3-Security)
 
 ## 区块链基础
 
-**F01：什么是区块链**：[Github](./basis/blockchain/readme.md) | [Mirror](https://mirror.xyz/brycew.eth/oI6GKxfxgX4nDx8AlDB5ukKF4LBdyXEc_4bNmZ8uxTg)
+**F01：什么是区块链**：[Github](./basis/blockchain/readme.md)
 
-**F02：区块链通用模型**：[Github](./basis/model/readme.md) | [Mirror](https://mirror.xyz/brycew.eth/V6OEk1r4O_PbRiB3PzVc7VEZ2j_7XvcwxWa50PVc95Q)
+**F02：区块链通用模型**：[Github](./basis/model/readme.md)
 
-**F03：比特币模型详解**：[Github](./basis/btc/readme.md) | [Mirror](https://mirror.xyz/dashboard/edit/PsiKSs0A1X66btsfF0YcIysVqh0oXBrLy8G8i29fPQk)
+**F03：比特币模型详解**：[Github](./basis/btc/readme.md)
 
-**F04：以太坊模型详解**：[Github](./basis/ethereum/readme.md) | [Mirror](https://mirror.xyz/brycew.eth/_b7ZXOsib1xB506_0WHZYO6N1c0CxjcHTmbtlJn4Yi8)
+**F04：以太坊模型详解**：[Github](./basis/ethereum/readme.md)
 
-**F05：常用工具和资料汇总**：Github | Mirror
+**F05：常用工具和资料汇总**：Github
 
 ## Solidity
 
@@ -35,67 +34,69 @@
 
 ### `Token`
 
-**E01：ERC 20**：Github | Mirror
+[ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 
-**E02：ERC 721**：Github | Mirror
+[ERC 721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
 
-**E03：ERC 777**：Github | Mirror
+[ERC 777](https://ethereum.org/en/developers/docs/standards/tokens/erc-777/)
 
-**E04：ERC 1155**：Github | Mirror
+[ERC 1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
 
 ### `安全相关提案`
 
-**E05：ERC 155**：Github | Mirror
+[ERC 155](https://eips.ethereum.org/EIPS/eip-155)
 
-**E06：ERC 191**：Github | Mirror
+[ERC 191](https://eips.ethereum.org/EIPS/eip-191)
 
-**E07：ERC 712**：Github | Mirror
+[ERC 712](https://eips.ethereum.org/EIPS/eip-712)
 
 ## 区块链安全基础
 
 ### `链平台攻击`
 
-**SP01：网络层攻击**：Github | Mirror
+**SP01：网络层攻击**  
+Todo
 
-**SP02：共识层攻击**：Github | Mirror
+**SP02：共识层攻击**  
+Todo
 
-**SP03：RPC攻击**：Github | Mirror
+**SP03：RPC攻击**  
+Todo
 
-**SP04：其他攻击**：Github | Mirror
-
-（待）
+**SP04：其他攻击**  
+Todo  
 
 ### `智能合约安全风险`
 
-**SS01：重入攻击（Reentrancy）**：[Github](./vulnerability/smartContract/readme.md#重入攻击reentrancy) | Mirror
+**SS01：重入攻击（Reentrancy）**：[Github](./vulnerability/smartContract/readme.md#重入攻击reentrancy)
 
-**SS02：整型溢出漏洞（overflow）**：[Github](./vulnerability/smartContract/readme.md#整型溢出漏洞overflow) | Mirror
+**SS02：整型溢出漏洞（overflow）**：[Github](./vulnerability/smartContract/readme.md#整型溢出漏洞overflow)
 
-**SS03：tx.origin漏洞**：[Github](./vulnerability/smartContract/readme.md#txorigin漏洞) | Mirror
+**SS03：tx.origin漏洞**：[Github](./vulnerability/smartContract/readme.md#txorigin漏洞)
 
-**SS04：拒绝服务攻击（DoS）**：[Github](./vulnerability/smartContract/readme.md#拒绝服务攻击dos) | Mirror
+**SS04：拒绝服务攻击（DoS）**：[Github](./vulnerability/smartContract/readme.md#拒绝服务攻击dos)
 
-**SS05：预言机操纵（Oracle Manipulation）**：[Github](./vulnerability/smartContract/readme.md#预言机操纵oracle-manipulation) | Mirror
+**SS05：预言机操纵（Oracle Manipulation）**：[Github](./vulnerability/smartContract/readme.md#预言机操纵oracle-manipulation)
 
-**SS06：闪电贷攻击（Flashloan）**：[Github](./vulnerability/smartContract/readme.md#闪电贷攻击) | Mirror
+**SS06：闪电贷攻击（Flashloan）**：[Github](./vulnerability/smartContract/readme.md#闪电贷攻击)
 
 ## 智能合约安全模拟实战
 
 ### `Ethernaut靶场带练`
 
-（待）
+Todo
 
 ### `Capturetheether靶场带练`
 
-（待）
+Todo
 
 ### `Damn Vulnerable DeFi靶场带练`
 
-（待）
+Todo
 
 ## 智能合约安全事件分析
 
-（待）
+Todo
 
 ## 智能合约安全事件复现
 
@@ -118,8 +119,8 @@
 
 ## 公链平台漏洞分析
 
-（待）
+Todo
 
 ## 公链平台漏洞挖掘
 
-（待）
+Todo
