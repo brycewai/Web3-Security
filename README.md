@@ -3,7 +3,6 @@
 **A Web3 Security Tutorial**
 
 ![img](./img/banner.png)  
-有人说，Web3就像《三体》中的“黑暗森林”，那么该课程将带你进入“猎人”的门。
 
 **Twitter:** [@brycewai](https://twitter.com/brycewai)  
 **所有Github和教程开源在Github:** [https://github.com/BryceWai/Web3-Security](https://github.com/BryceWai/Web3-Security)
