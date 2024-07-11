@@ -9,15 +9,15 @@
 
 ## 区块链基础
 
-**F01：什么是区块链**：[Github](./basis/blockchain/readme.md)
+**F01: [什么是区块链](./basis/blockchain/readme.md)**
 
-**F02：区块链通用模型**：[Github](./basis/model/readme.md)
+**F02: [区块链通用模型](./basis/model/readme.md)**
 
-**F03：比特币模型详解**：[Github](./basis/btc/readme.md)
+**F03: [比特币模型详解](./basis/btc/readme.md)**
 
-**F04：以太坊模型详解**：[Github](./basis/ethereum/readme.md)
+**F04: [以太坊模型详解](./basis/ethereum/readme.md)**
 
-**F05：常用工具和资料汇总**：Github
+**F05: [常用工具和资料汇总](https://brycewai.github.io/2022/08/07/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E5%92%8C%E8%B5%84%E6%96%99/)**
 
 ## Solidity
 
@@ -53,21 +53,21 @@
 
 ### `链平台安全审计`
 
-[公链安全审计项](./vulnerability/chain/readme.md#公链安全审计项)
+**CS01: [公链安全审计项](./vulnerability/chain/readme.md#公链安全审计项)**
 
 ### `智能合约安全漏洞`
 
-**SS01：重入攻击（Reentrancy）**：[Github](./vulnerability/smartContract/readme.md#重入攻击reentrancy)
+**SS01: [重入攻击（Reentrancy）](./vulnerability/smartContract/readme.md#重入攻击reentrancy)**
 
-**SS02：整型溢出漏洞（overflow）**：[Github](./vulnerability/smartContract/readme.md#整型溢出漏洞overflow)
+**SS02: [整型溢出漏洞（overflow）](./vulnerability/smartContract/readme.md#整型溢出漏洞overflow)**
 
-**SS03：tx.origin漏洞**：[Github](./vulnerability/smartContract/readme.md#txorigin漏洞)
+**SS03: [tx.origin漏洞](./vulnerability/smartContract/readme.md#txorigin漏洞)**
 
-**SS04：拒绝服务攻击（DoS）**：[Github](./vulnerability/smartContract/readme.md#拒绝服务攻击dos)
+**SS04: [拒绝服务攻击（DoS）](./vulnerability/smartContract/readme.md#拒绝服务攻击dos)**
 
-**SS05：预言机操纵（Oracle Manipulation）**：[Github](./vulnerability/smartContract/readme.md#预言机操纵oracle-manipulation)
+**SS05: [预言机操纵（Oracle Manipulation）](./vulnerability/smartContract/readme.md#预言机操纵oracle-manipulation)**
 
-**SS06：闪电贷攻击（Flashloan）**：[Github](./vulnerability/smartContract/readme.md#闪电贷攻击)
+**SS06: [闪电贷攻击（Flashloan）](./vulnerability/smartContract/readme.md#闪电贷攻击)**
 
 ## 智能合约安全事件分析
 
@@ -77,27 +77,36 @@ Todo
 
 ### 安装 Foundry
 
-- Follow the [instructions](https://book.getfoundry.sh/getting-started/installation.html) to install [Foundry](https://github.com/foundry-rs/foundry).
+- 跟随指引[instructions](https://book.getfoundry.sh/getting-started/installation.html) 安装[Foundry](https://github.com/foundry-rs/foundry).
 
-- Clone and install dependencies:`git submodule update --init --recursive`
+- 复制下面的命令，安装子模块:  
+`git submodule update --init --recursive`
 
 ### 攻击事件 Exp
 
-- [20240702 WMRP](./exploit/readme.md#20240702---wmrp)
-- [20230513 SellToken](./exploit/readme.md#20230513---selltoken)
-- [20230227 SwapX](./exploit/readme.md#20230227---swapx)
-- [20230219 BABYDOLL](./exploit/readme.md#20230219---babydoll)
-- [20230217 Dexible DeFi](./exploit/readme.md#20230217---dexible)  
-- [20230216 Platypus](./exploit/readme.md#20230216---platypus)
-- [20230130 BEVO](./exploit/readme.md#20230130---bevo)
-- [20221020 HEALTH](./exploit/readme.md#20221020---health)  
-- [20220808 EGDFinance](./exploit/readme.md#20220808---egdfinance)
+[20240702 WMRP](./exploit/readme.md#20240702---wmrp)
+
+[20230513 SellToken](./exploit/readme.md#20230513---selltoken)
+
+[20230227 SwapX](./exploit/readme.md#20230227---swapx)
+
+[20230219 BABYDOLL](./exploit/readme.md#20230219---babydoll)
+
+[20230217 Dexible DeFi](./exploit/readme.md#20230217---dexible)
+
+[20230216 Platypus](./exploit/readme.md#20230216---platypus)
+
+[20230130 BEVO](./exploit/readme.md#20230130---bevo)
+
+[20221020 HEALTH](./exploit/readme.md#20221020---health)
+
+[20220808 EGDFinance](./exploit/readme.md#20220808---egdfinance)
 
 ## 公链平台漏洞挖掘
 
-[Beosin发现Move VM严重级别漏洞：可导致 Sui、Aptos 等公链全网崩溃，甚至可能硬分叉](https://mp.weixin.qq.com/s/n3EPv8lMHaNXoYICz9M6lg)
+[MOVEVM | Beosin发现Move VM严重级别漏洞：可导致 Sui、Aptos 等公链全网崩溃，甚至可能硬分叉](https://mp.weixin.qq.com/s/n3EPv8lMHaNXoYICz9M6lg)
 
-[Beosin硬核安全研究 | 内存炸弹漏洞导致Sui节点崩溃？](https://mp.weixin.qq.com/s/Gzh2c6hWpEWx47yXlZaXoQ)
+[SUI | 内存炸弹漏洞导致Sui节点崩溃](https://mp.weixin.qq.com/s/Gzh2c6hWpEWx47yXlZaXoQ)
 
 ## ZK 零知识证明安全
 
