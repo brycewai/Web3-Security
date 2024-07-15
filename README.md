@@ -86,23 +86,23 @@ Todo
 
 [202407 LW](./exploit/readme.md#202407---lw)
 
-[202407 WMRP](./exploit/readme.md#20240702---wmrp)
+[202407 WMRP](./exploit/readme.md#202407---wmrp)
 
-[202305 SellToken](./exploit/readme.md#20230513---selltoken)
+[202305 SellToken](./exploit/readme.md#202305---selltoken)
 
-[202302 SwapX](./exploit/readme.md#20230227---swapx)
+[202302 SwapX](./exploit/readme.md#202302---swapx)
 
-[202302 BABYDOLL](./exploit/readme.md#20230219---babydoll)
+[202302 BABYDOLL](./exploit/readme.md#202302---babydoll)
 
-[202302 Dexible DeFi](./exploit/readme.md#20230217---dexible)
+[202302 Dexible DeFi](./exploit/readme.md#202302---dexible)
 
-[202302 Platypus](./exploit/readme.md#20230216---platypus)
+[202302 Platypus](./exploit/readme.md#202302---platypus)
 
-[202301 BEVO](./exploit/readme.md#20230130---bevo)
+[202301 BEVO](./exploit/readme.md#202301---bevo)
 
-[202210 HEALTH](./exploit/readme.md#20221020---health)
+[202210 HEALTH](./exploit/readme.md#202210---health)
 
-[202208 EGDFinance](./exploit/readme.md#20220808---egdfinance)
+[202208 EGDFinance](./exploit/readme.md#202208---egdfinance)
 
 ## 公链平台漏洞挖掘
 
