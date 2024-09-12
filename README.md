@@ -71,7 +71,7 @@
 
 ## 智能合约安全事件分析
 
-| 注：文章来源于Beosin安全研究和审计团队
+| 注：安全事件分析的文章来源于 Beosin 安全研究和审计团队
 
 [孙宇晨旗下Poloniex被盗上亿美元，Raft项目被盗340万美元，上周黑客为何如此猖獗？](https://mp.weixin.qq.com/s/1X6m4m44htHwSV-RiSzydA)
 
