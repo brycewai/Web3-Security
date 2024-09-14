@@ -33,13 +33,13 @@
 
 ### `Token`
 
-[ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+[ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/){:target="_blank"}
 
-[ERC 721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
+[ERC 721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/){:target="_blank"}
 
-[ERC 777](https://ethereum.org/en/developers/docs/standards/tokens/erc-777/)
+[ERC 777](https://ethereum.org/en/developers/docs/standards/tokens/erc-777/){:target="_blank"}
 
-[ERC 1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
+[ERC 1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/){:target="_blank"}
 
 ### `安全相关提案`
 
